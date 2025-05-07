@@ -1,0 +1,50 @@
+audio {
+    font-family: 'Arial', sans-serif;
+    background-color: #f5f5f5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+  }
+  
+
+  .audio-button {
+    background-color: #4CAF50;         
+    border: none;                      
+    border-radius: 50%;                
+    width: 80px;                       
+    height: 80px;                      
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;  
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); 
+    transform-origin: center;
+  }
+  
+  .audio-button:hover {
+    transform: scale(1.1);             
+  }
+  
+  .audio-button.playing {
+    background-color: #E53935;         
+  }
+  
+  .audio-button:active {
+    transform: scale(0.98);            
+  }
+  
+  
+  .audio-icon {
+    width: 40px;
+    height: 40px;
+    fill: #fff;                       
+    transition: fill 0.3s ease;         
+  }
+  
+  .audio-button.playing .audio-icon {
+    fill: #fff;                        
+  }
+  
