@@ -7,6 +7,6 @@
 
 ## link do site: https://n0b0dy12-xd.github.io/the-true-love/
 
-### caso tenha perdido algúem, lembre-se de uma coisa que deve ter certeza, essa pessoa com certeza iria amar que você seguisse em frente, mesmo sem ela, você é capaz de tudo e ela acreditava nisso.
+### caso tenha perdido alguém, lembre-se de uma coisa que deve ter certeza, essa pessoa com certeza iria amar que você seguisse em frente, mesmo sem ela, você é capaz de tudo e ela acreditava nisso.
 
 ## feito por: UserNotFound
